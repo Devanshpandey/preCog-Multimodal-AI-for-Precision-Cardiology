@@ -10,7 +10,7 @@
 ## 🚀 Project Overview
 
 - **Goal:** Leverage diverse data sources to improve 10-year CAD risk prediction beyond traditional scores (e.g., Framingham Risk Score).
-- **Key Result:** preCog outperforms Framingham by 14% in 10-year incident CAD AUC :contentReference[oaicite:0]{index=0}.
+- **Key Result:** preCog identfies a subgrop with a 10.4x incent CAD risk compared to Framigham Risk Score baseline by effectively using imaging and genetics on top of tradiational biomarkers.
 - **Modalities:**
   - Cardiac MRI (3D cine long axis, aortic distesibility and blood flow)
   - Liver & Pancreas MRI
