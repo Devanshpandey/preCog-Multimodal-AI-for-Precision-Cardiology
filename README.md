@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)  
 [![Paper]()]()
 
-**preCog** is a comprehensive deep‐learning framework for predicting incident coronary artery disease (CAD) using multimodal data—cardiovascular MRI, liver & pancreatic MRI, DXA, ECG, pulse‐wave analysis, and polygenic risk scores—developed by Devansh Pandey _et al._ and published in _Nature Communications_.
+**preCog** is a comprehensive deep‐learning framework for predicting incident coronary artery disease (CAD) using multimodal data—cardiovascular MRI, liver & pancreatic MRI, DXA, ECG, and polygenic risk scores—developed by Devansh Pandey _et al._ and published in _XXX_.
 
 ---
 
