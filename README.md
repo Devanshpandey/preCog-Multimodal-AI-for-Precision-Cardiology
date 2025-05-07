@@ -16,10 +16,11 @@
   - Liver & Pancreas MRI
   - Full-body DXA
   - 12-lead ECG traces
-  - Pulse‐Wave Analysis (PWA)
+  - Blood Biochemistry
   - Polygenic Risk Score (PRS)
+  - Demogrpahic Data
 
 ---
 
-## 🗂 Repository Structure
+
 
