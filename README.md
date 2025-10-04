@@ -18,7 +18,7 @@
   - Demogrpahic Data
 
 ---
--**_preCog_ Workflow**
+- **_preCog_ Workflow**
 ![A diagram of the preCog framework](assets/Figure1.png)
 
 
