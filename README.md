@@ -22,4 +22,12 @@
 ![A diagram of the preCog framework](assets/Figure1.png)
 
 
+---
+**Multimodal Risk Modelling**
+
+--We observed that the Heart Long Axis and Aortic disensibility MRI were the most important predictors among all the imaging modlaties, liver, pancreas and heart blood flow MRI as well as DXA scans lose all the predictive variance when adjusted for the basline features (Age, Sex, BMI and smoking status)
+
+--PRS desipte beign a modest individual feature is important predictor in full multimodal model, imaging and genetic risk are largely complemntray
+
+![Plots showing feature importance](assets/Figure3.png)
 
