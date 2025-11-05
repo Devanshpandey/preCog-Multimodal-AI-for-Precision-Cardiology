@@ -1,0 +1,29 @@
+# Use STDERR-based fixed-effects meta-analysis
+SCHEME STDERR
+
+# Specify input column mappings
+MARKER SNP
+ALLELE A1 A2
+EFFECT BETA
+STDERR SE
+PVAL P
+WEIGHT N
+
+# Ensure proper parsing of input files
+SEPARATOR WHITESPACE
+SKIPLINE 1  # if your files have headers
+
+
+# Check for ambiguous A/T or C/G variants and remove
+STRANDCHECK ON
+
+# Load all harmonized summary statistics
+PROCESS harmonized_finngen.txt
+PROCESS harmonized_mvp.txt
+PROCESS harmonized_ukb.txt
+
+# Output results with heterogeneity statistics
+OUTFILE meta_CAD_results .tbl
+
+# Run the meta-analysis
+ANALYZE
