@@ -2,6 +2,10 @@
 
 **_preCog_** is a comprehensive deep‐learning framework for predicting incident coronary artery disease (CAD) using multimodal data—cardiovascular MRI, liver & pancreatic MRI, DXA, ECG, and polygenic risk scores, developed by Devansh Pandey.
 
+**Cite** Multimodal AI for Precision Preventive Cardiology
+Devansh Pandey, Liaoyi Xu, Eucharist Kun, Chenfei Li, Joyce Y. Wang, Alaa Melek, Julie C. DiCarlo, Edward Castillo, Jagat Narula, Charles A. Taylor, Vagheesh M. Narasimhan
+medRxiv 2025.10.09.25337677; doi: https://doi.org/10.1101/2025.10.09.25337677
+
 ---
 
 ## 🚀 Project Overview
